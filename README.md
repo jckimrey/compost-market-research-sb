@@ -1,17 +1,50 @@
-# Compost Product Market Research – Santa Barbara Region
+# Compost Collective – Market Research & Strategy (Santa Barbara)
 
-This consulting project was conducted through Gaucho Creative for a local nonprofit aiming to expand composting efforts across the Santa Barbara area. The team was tasked with researching the availability, pricing, and packaging of comparable compost products at nurseries and retail locations.
+This project was completed as part of a consulting engagement through Gaucho Creative. Our goal was to support the Compost Collective's mission to expand sustainable composting behavior in the Santa Barbara area by understanding user behavior, product-market fit, and strategic opportunities.
 
-## 🧠 My Role
+---
 
-- Designed and launched a Qualtrics survey for target demographics
-- Implemented bot detection to ensure response quality
-- Personally conducted field research on product availability, pricing, and packaging
-- Mapped regional retail locations and color-coded based on compost overlap
-- Designed key slides for the final deliverable deck
+## 🔍 Workstreams
 
-## 🖼️ Sample Slides
+### 📊 Data Analytics & Insights
+- Aggregated and cleaned survey data (Qualtrics)
+- Conducted segmentation and analyzed behavior drivers
+- Identified statistically significant trends and pain points  
+➡️ [View folder](./data-analytics-&-insights)
 
-📄 [Click here to view the sanitized slide deck (PDF)](slides/compost-analysis-slides.pdf)
+---
 
-*(All content shown is either original work or based on public data. Gaucho Creative logo is included with permission.)*
+### 🧠 Survey Design
+- Created original survey using behavioral principles (loss aversion, commitment framing)
+- Deployed bot detection measures
+- Iterated based on pilot results  
+➡️ [View folder](./survey-design)
+
+---
+
+### 👥 Target Demographics
+- Profiled key user segments (e.g. students, renters, homeowners)
+- Identified adoption barriers and motivators by group  
+➡️ [View folder](./target-demographics)
+
+---
+
+### 🔎 Competitive Analysis
+- Conducted in-store audits and pricing comparisons
+- Mapped availability of composting alternatives across Santa Barbara
+- Benchmarked against similar regional programs  
+➡️ [View folder](./competitive-analysis)
+
+---
+
+## 📌 Contributions
+
+- Personally designed and deployed the Qualtrics survey
+- Developed the bot-detection logic
+- Researched and mapped local competitive offerings
+- Helped shape behavioral questions and interpret survey response trends
+
+---
+
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/john-kimrey/) • [Main Portfolio](https://johnkimrey.github.io)
